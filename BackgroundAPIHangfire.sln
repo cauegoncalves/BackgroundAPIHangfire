@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31717.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackgroundAPIHangfire", "BackgroundAPI.Hangfire\BackgroundAPIHangfire.csproj", "{B78D8806-F931-464E-8807-F3CA53F2567A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B78D8806-F931-464E-8807-F3CA53F2567A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B78D8806-F931-464E-8807-F3CA53F2567A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B78D8806-F931-464E-8807-F3CA53F2567A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B78D8806-F931-464E-8807-F3CA53F2567A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {463847FB-4D35-4AF1-BD18-6C10CD7EFD3A}
+	EndGlobalSection
+EndGlobal
